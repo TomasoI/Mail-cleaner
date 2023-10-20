@@ -6,4 +6,4 @@
 
 ## More info:
 
--Gmail cleaner write in Python, ONLY WORKING ON GOOGLE MAIL SISTEM ( https://mail.google.com/ )
+-Gmail cleaner write in Python, ONLY WORKING ON GOOGLE MAIL SYSTEM ( https://mail.google.com/ )
